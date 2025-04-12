@@ -1,12 +1,14 @@
-# PerformTrack ML
-This is a simple machine learning project using classifiers for predicting factors which affect student grades, using data from CSV file
+#PerformTrack ML
+This is a simple machine learning project that uses various classification algorithms to predict the factors influencing student grades, based on data from a CSV file.
 
+The dataset includes students from various nationalities and grade levels, along with key influencing factors such as:
 
-In this Project, a dataset which has students from nationalities, different grade levels and also soe determining factors like,
-number of hands raised, nuber attendances, number of hours studied etc. is used, which is a CSV File.
+Number of hands raised
 
+Attendance count
 
-And a few different classifiers and ML models have been used to get the most accurate predictions of which factors,
-affect the marks of students.
+Hours studied, etc.
 
-A few visual aids like graphs and confusion matrix have been created, to show the results.
+Multiple machine learning classifiers have been applied to achieve the most accurate predictions of the factors that impact student performance.
+
+Additionally, visual tools such as graphs and confusion matrices are used to represent the results effectively.
